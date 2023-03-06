@@ -1,1 +1,1 @@
-Python hello world project
+Python repo
